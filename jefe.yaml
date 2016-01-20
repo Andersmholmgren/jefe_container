@@ -1,0 +1,8 @@
+name: jefe_container
+
+projects:
+  jefe: git@github.com:Andersmholmgren/jefe.git
+  pubspec: git@github.com:Andersmholmgren/pubspec.git
+  yamlicious: git@github.com:Andersmholmgren/yamlicious.git
+  dockerfile: git@github.com:Andersmholmgren/dockerfile.git
+  stuff: git@bitbucket.org:andersmholmgren/stuff.git
