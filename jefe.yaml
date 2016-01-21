@@ -6,4 +6,4 @@ projects:
   yamlicious: git@github.com:Andersmholmgren/yamlicious.git
   dockerfile: git@github.com:Andersmholmgren/dockerfile.git
   stuff: git@bitbucket.org:andersmholmgren/stuff.git
-  git.dart: git@github.com:Andersmholmgren/git.dart.git
+#  git.dart: git@github.com:Andersmholmgren/git.dart.git
